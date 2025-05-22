@@ -1,3 +1,5 @@
 # journal-entry-01.txt
 
 This is a scaffold file for 01-journal-app.
+
+Today I learned how to push to GitHub using Git!

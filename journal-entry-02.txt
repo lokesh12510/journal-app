@@ -1,0 +1,3 @@
+# journal-entry-02.txt
+
+This is a scaffold file for 01-journal-app.
