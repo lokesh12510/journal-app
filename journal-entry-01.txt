@@ -3,3 +3,5 @@
 This is a scaffold file for 01-journal-app.
 
 Today I learned how to push to GitHub using Git!
+
+Rebase is a powerful tool to maintain a linear commit history.
